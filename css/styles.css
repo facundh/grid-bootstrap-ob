@@ -1,0 +1,21 @@
+.row div{
+    padding: 1.5rem;
+    margin:2.5rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.col-sm{
+    background-color: chartreuse;
+}
+.col-md{
+    background-color: aquamarine;
+}
+
+.col-lg{
+    background-color: red;
+}
+.col-xl{
+    background-color: lightcoral;
+
+}
